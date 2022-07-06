@@ -10,9 +10,7 @@
 * Heroku
 * Somee
 
-## Enunciado
 
-Enunciado
 
 ## Proyecto Deployado
 
@@ -40,6 +38,6 @@ Calculo y visualización de la fecha tentativa de expiración del pase.
 
 ## Contacto
 
-* Nombre ...
-* Correo ...
-* Redes ...?
+* Nombre Francis Rios
+* Correo francis.rios.tupiza@udla.edu.ec
+* Contacto 0995630236
